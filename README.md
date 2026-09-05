@@ -26,10 +26,5 @@ select **Debug | x64**, choose one startup project, and run it. Both WinUI
 executables use Microsoft-style self-contained Windows App SDK deployment. The
 WPF package initializes its XAML Island host.
 
-`NuGet.Config` clears inherited feeds and enables only NuGet.org, while
-`Directory.Build.props` keeps restored packages in the ignored `.packages`
-directory. The solution therefore cannot accidentally consume binaries from a
-neighbouring VelocityGrid source checkout.
-
 The package source and documentation are available from the
 [VelocityGrid repository](https://github.com/NumberSix-io/VelocityGrid).
