@@ -20,7 +20,7 @@ targeted invalidation, refresh, selection, and large-range scrolling.
 
 ## Run
 
-After `0.1.0-preview.7` has been published, open `VelocityGrid.Samples.sln`
+Open `VelocityGrid.Samples.sln`
 (`VelocityGrid.Samples.slnx` is also provided for newer Visual Studio versions),
 select **Debug | x64**, choose one startup project, and run it. Both WinUI
 executables use Microsoft-style self-contained Windows App SDK deployment. The
