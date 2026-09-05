@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Keep this verification solution independent of the machine-wide NuGet cache. -->
+    <RestorePackagesPath>$(MSBuildThisFileDirectory).packages</RestorePackagesPath>
+  </PropertyGroup>
+</Project>

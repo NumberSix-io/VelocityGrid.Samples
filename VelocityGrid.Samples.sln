@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityGrid.Sample.WinUI.CSharp", "VelocityGrid.Sample.WinUI.CSharp\VelocityGrid.Sample.WinUI.CSharp.csproj", "{21B52754-1830-4E9F-AF68-A55A04257573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityGrid.Sample.Wpf", "VelocityGrid.Sample.Wpf\VelocityGrid.Sample.Wpf.csproj", "{C535417E-682C-4E47-B475-071FBA7902D4}"
+EndProject
+Project("{BC8A1FFA-BEE3-4634-8014-F334798102B3}") = "VelocityGrid.Sample.WinUI.Cpp", "VelocityGrid.Sample.WinUI.Cpp\VelocityGrid.Sample.WinUI.Cpp.vcxproj", "{F54DC503-2E45-4D84-AC6F-8B5329189347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B52754-1830-4E9F-AF68-A55A04257573}.Debug|x64.ActiveCfg = Debug|x64
+		{21B52754-1830-4E9F-AF68-A55A04257573}.Debug|x64.Build.0 = Debug|x64
+		{21B52754-1830-4E9F-AF68-A55A04257573}.Release|x64.ActiveCfg = Release|x64
+		{21B52754-1830-4E9F-AF68-A55A04257573}.Release|x64.Build.0 = Release|x64
+		{C535417E-682C-4E47-B475-071FBA7902D4}.Debug|x64.ActiveCfg = Debug|x64
+		{C535417E-682C-4E47-B475-071FBA7902D4}.Debug|x64.Build.0 = Debug|x64
+		{C535417E-682C-4E47-B475-071FBA7902D4}.Release|x64.ActiveCfg = Release|x64
+		{C535417E-682C-4E47-B475-071FBA7902D4}.Release|x64.Build.0 = Release|x64
+		{F54DC503-2E45-4D84-AC6F-8B5329189347}.Debug|x64.ActiveCfg = Debug|x64
+		{F54DC503-2E45-4D84-AC6F-8B5329189347}.Debug|x64.Build.0 = Debug|x64
+		{F54DC503-2E45-4D84-AC6F-8B5329189347}.Release|x64.ActiveCfg = Release|x64
+		{F54DC503-2E45-4D84-AC6F-8B5329189347}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

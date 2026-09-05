@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="VelocityGrid.Sample.WinUI.CSharp/VelocityGrid.Sample.WinUI.CSharp.csproj">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="VelocityGrid.Sample.Wpf/VelocityGrid.Sample.Wpf.csproj">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+  <Project Path="VelocityGrid.Sample.WinUI.Cpp/VelocityGrid.Sample.WinUI.Cpp.vcxproj" Id="f54dc503-2e45-4d84-ac6f-8b5329189347" />
+</Solution>
